@@ -1,0 +1,5 @@
+# a varible that in inner side of the function is called local variable
+# a varible that in outer side of the function is called global variable
+
+
+1) global variable used in the fucntion and outside of the function but local variable used in the function only
